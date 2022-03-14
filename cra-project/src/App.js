@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <div className="bg-black">
+    <div className="bg-red-500 text-white text-center">
         Learn React
     </div>
   );
